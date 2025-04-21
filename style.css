@@ -110,7 +110,7 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
+@media creen and (max-width: 1250px) {
 
     h1 {
         font-size: 50px;
